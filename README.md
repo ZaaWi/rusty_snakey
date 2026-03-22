@@ -58,7 +58,3 @@ Vim-like movement keys:
 - `K`: move up
 - `L`: move right
 
-## Repository Notes
-
-- `pkg/` is generated and should not be committed.
-- `www/public/` contains generated frontend output and should not be committed.
